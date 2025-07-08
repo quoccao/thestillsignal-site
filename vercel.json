@@ -1,7 +1,0 @@
-{
-  "build": {
-    "env": {
-      "NEXT_PRIVATE_APP_DIR": "true"
-    }
-  }
-}
